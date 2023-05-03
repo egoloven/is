@@ -1,0 +1,6 @@
+Child john_child michael_father
+Siblings john_child emily_child
+Wife sarah_mother michael_father
+Child sarah_mother paul_grandfather
+Siblings sarah_mother lisa_mother
+Child michael_father anna_grandmother
